@@ -8,3 +8,6 @@ def count(list,x):
 list=[1,2,3,2,3,45,6,6,6]
 x=6
 print("the elemsnt {} occurred {} times".format(x,count(list,x)))
+g=set(list)
+
+print(g)

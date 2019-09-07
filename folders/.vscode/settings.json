@@ -4,5 +4,6 @@
         "**/.project": true,
         "**/.settings": true,
         "**/.factorypath": true
-    }
+    },
+    "python.pythonPath": "C:\\Users\\dinesh kumar\\Anaconda3\\envs\\tensorflow\\python.exe"
 }

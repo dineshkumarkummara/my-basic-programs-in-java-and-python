@@ -2,6 +2,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - PalinString",
+            "request": "launch",
+            "mainClass": "PalinString",
+            "projectName": "folders_5d187ddc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ArmArray",
+            "request": "launch",
+            "mainClass": "ArmArray",
+            "projectName": "folders_5d187ddc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Birthday",
+            "request": "launch",
+            "mainClass": "Birthday",
+            "projectName": "folders_5d187ddc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Minmax",
+            "request": "launch",
+            "mainClass": "Minmax",
+            "projectName": "folders_5d187ddc"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - MyArm",
             "request": "launch",
             "mainClass": "MyArm",

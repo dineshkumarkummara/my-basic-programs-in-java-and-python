@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Lower",
+            "request": "launch",
+            "mainClass": "Lower",
+            "projectName": "folders_5d187ddc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Spacestr",
+            "request": "launch",
+            "mainClass": "Spacestr",
+            "projectName": "folders_5d187ddc"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - PalinString",
             "request": "launch",
             "mainClass": "PalinString",

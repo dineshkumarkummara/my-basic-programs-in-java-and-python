@@ -20,7 +20,7 @@ class Birthday{
             if(a[j]==l){
                 count++;
             }
-        } 
+	}
         System.out.println(count);
     }
 }

@@ -21,6 +21,6 @@ Feedback is appreciated
 
 <a href="https://sourcerer.io/dineshkumarkummara"><img src="https://img.shields.io/badge/Python-57%20commits-orange.svg" alt=""></a>
 
-<a href="https://sourcerer.io/dineshkumarkummara"><img src="https://img.shields.io/badge/Java-14%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/dineshkumarkummara"><img src="https://img.shields.io/badge/Java-23%20commits-orange.svg" alt=""></a>
 
 

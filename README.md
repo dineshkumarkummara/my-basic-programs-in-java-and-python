@@ -13,7 +13,7 @@ Keep in touch aliens soon i am gonna update a repository on data structures and 
 <H1> Happy Coding</H1>
 
 
-Contact dk944176@gmail.com for any queries 
+
 
 Feedback is appreciated
 
